@@ -33,12 +33,4 @@ NegativeSentiment negativeSentiment = new NegativeSentiment();
 ```
 
 
-#### 开发人员
-
-WeChat: wgybzb
-
-QQ: 1010437118
-
-E-mail: wgybzb@sina.cn
-
 
